@@ -1,7 +1,7 @@
 'use strict'
 
 
-// This is a single-line comment.
+// This is a single-line comment. This was cloned.
 
 /* Here's a
 multi-line
