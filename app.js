@@ -14,3 +14,4 @@ function drop(ev)
 {
     ev.target.append(document.getElementById(id));
 }
+
