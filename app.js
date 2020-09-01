@@ -1,3 +1,4 @@
+var id;
 function allowDrop(ev)
 {
     ev.preventDefault();
