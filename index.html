@@ -25,11 +25,12 @@
     
     <div class="dragzone">
 
-        <img src="smiley.png" height="300px">
+        <img src="smiley.png" id="dragelement" height="300px" 
+        ondragstart="dragStart(event)">
 
     </div>
       
-    <div class="dropzone">
+    <div class="dropzone" ondragover="allowDrop(event)">
 
 
     </div>
