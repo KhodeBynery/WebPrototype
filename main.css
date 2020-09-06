@@ -1,7 +1,8 @@
 body {
-    font-family: helvetica;
-  }
   
+  font-family: helvetica;
+  }
+
   ul {
     font-family: monospace;
   }
@@ -18,5 +19,3 @@ body {
     font-style: italic;
     font-weight: bold;
   } 
-
- 
